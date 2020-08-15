@@ -1,0 +1,13 @@
+#######
+#Include libraries only for development. It is not necessary to include the version
+######
+
+Sphinx
+black
+coverage
+flake8
+pydocstyle
+pylint
+pytest
+pytest-cov
+rope

@@ -1,0 +1,4 @@
+[MESSAGES CONTROL]
+disable=C0330,C0303
+good-names=X_train,X_val,X_test,y,X,df,i,j,k,f,x,logger
+extension-pkg-whitelist=cv2

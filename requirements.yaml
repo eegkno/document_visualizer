@@ -1,0 +1,7 @@
+name: docvis
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3.7
+    - pip:
